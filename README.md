@@ -15,9 +15,9 @@ Hello everyone, my name is Jayden. I am pursuing a degree in Engineering!
 
 | Rank |    Hobbies    |
 |-----:|---------------|
-|     1|  Writing Music            |
-|     2|   Cooking          |
-|     3|      Video Games         |
+|     1| Writing Music |
+|     2|   Cooking     |
+|     3|  Video Games  |
 
 </details>
 
